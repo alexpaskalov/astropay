@@ -27,15 +27,15 @@ class AstroPayStreamline {
 	/**************************
 	 * Merchant configuration *
 	 **************************/
-	private $x_login = '***';
-	private $x_trans_key = '***';
+	private $x_login = '235b785c46';
+	private $x_trans_key = '88bad13da4';
 	
-	private $x_login_for_webpaystatus = '***';
-	private $x_trans_key_for_webpaystatus = '***';
+	private $x_login_for_webpaystatus = '9d31f8b9d7';
+	private $x_trans_key_for_webpaystatus = 'bb19a4da36';
 	
-	private $secret_key = '***';
+	private $secret_key = '1217326d98fa2cfd9525343438f4aabde';
 
-	private $sandbox = true;
+        private $sandbox = true;
 	/*********************************
 	 * End of Merchant configuration *
 	 *********************************/
